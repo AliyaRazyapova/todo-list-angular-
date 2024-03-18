@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Task {\n  constructor(title = '', note = '', id = null) {\n    this.title = title;\n    this.note = note;\n    this.id = id;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
